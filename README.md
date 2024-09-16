@@ -4,15 +4,15 @@
 I’m passionate about exploring and contributing to the cutting edge of web development. My goal is to leverage new technologies to create innovative and accessible web solutions. Currently, I’m diving into modern web development practices, including database technologies.
 
 🌱 **Currently Exploring:** 
-- **Front-End Frameworks:** React, 
+- **Front-End Lib:** React,GSAP,Framer-motion 
 - **Back-End Technologies:** Node.js, Django
-- **Static Site Generators:** Next.js, Nuxt.js
+- **Full-Stack Frameworks:** Next.js,
 - **Web Performance Optimization**
-- **Databases:** SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Firebase)
+- **Databases:** SQL (PostgreSQL, MySQL,SQLIte), NoSQL (MongoDB, Firebase)
 
 🚀 **Looking to Contribute To:** Projects that push the boundaries of web technology and improve user experiences.
 
-Feel free to reach out if you’re interested in collaborating or discussing the latest in web tech and databases!
+Feel free to reach out if you’re interested in collaborating or discussing the latest in web tech!
 
 
 <!---
