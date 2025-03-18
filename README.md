@@ -4,7 +4,7 @@
 I’m passionate about exploring and contributing to the cutting edge of web development. My goal is to leverage new technologies to create innovative and accessible web solutions. Currently, I’m diving into modern web development practices, including database technologies.
 
 🌱 **Currently Exploring:** 
-- **Front-End Lib:** React,GSAP,Framer-motion 
+- **Front-End Lib:** React,GSAP,Framer-motion,Redux,Zustand 
 - **Back-End Technologies:** Node.js, Django
 - **Full-Stack Frameworks:** Next.js,
 - **Web Performance Optimization**
